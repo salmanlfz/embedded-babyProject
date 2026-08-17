@@ -1,0 +1,8 @@
+{
+    "clangd.arguments": [
+        "--query-driver=/Users/salman/.platformio/packages/toolchain-xtensa-esp32/bin/xtensa-esp32-elf-g++,/Users/salman/.platformio/packages/toolchain-xtensa-esp32/bin/xtensa-esp32-elf-gcc"
+    ],
+    "files.associations": {
+        "c_cpp_properties.json": "jsonc"
+    }
+}
